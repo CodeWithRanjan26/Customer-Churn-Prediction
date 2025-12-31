@@ -1,0 +1,8 @@
+# created by virtualenv automaticall
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+.idea/
